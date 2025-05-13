@@ -1,8 +1,8 @@
-Weather App (React + OpenWeatherMap API)
+#Weather App (React + OpenWeatherMap API)
 
 A sleek and responsive weather application built using **React**, powered by the **OpenWeatherMap API**, that displays real-time weather data with beautifully styled UI components. The app supports temperature units (Celsius/Fahrenheit) and displays date-time in **Indian Standard Time (IST)** regardless of the user's local timezone.
 
-Features
+#Features
 
 -  Current weather data by city name
 -  Temperature displayed in °C/°F
