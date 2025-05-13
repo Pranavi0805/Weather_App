@@ -11,3 +11,4 @@ Features
 -  Humidity levels
 -  Weather conditions with icons
 -  Dynamic background color based on weather conditions and time of day (day/night)
+![image alt](https://github.com/Pranavi0805/Weather_App/blob/ddbf7fbd4730c91c9e49dc4828842ea54b8647f2/image.png)
